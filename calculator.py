@@ -1,4 +1,7 @@
+from subtract import subtract
 from add import add
 
 print("Calculator")
-print(add(100,2))
+print(add(2,3))
+print(subtract(5, 1))
+
